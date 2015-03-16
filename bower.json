@@ -1,12 +1,12 @@
 {
-  "name": "handsontable",
+  "name": "appsilon-handsontable",
   "description": "Spreadsheet-like data grid editor that provides copy/paste functionality compatible with Excel/Google Docs",
   "version": "0.13.0",
   "main": ["./dist/handsontable.full.js", "./dist/handsontable.full.css"],
   "homepage": "http://handsontable.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/handsontable.git"
+    "url": "https://github.com/Appsilon/handsontable.git"
   },
   "authors": [
     "Handsoncode", "Handsoncode <hello@handsontable.com>"
